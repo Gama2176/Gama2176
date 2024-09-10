@@ -1,4 +1,4 @@
-# Hola 👋, soy Gama Martínez
+# Hola 👋, soy Gamaliel Martínez
 ### Desarrollador Frontend
 
 <p align="center">
