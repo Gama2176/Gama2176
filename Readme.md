@@ -1,5 +1,4 @@
 # ¡Hola! 👋 Soy **Gamaliel Martínez**
-### Desarrollador Frontend apasionado por crear experiencias web impactantes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gama2176&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=es&hide_border=false" height="150" alt="Estadísticas de GitHub" />
