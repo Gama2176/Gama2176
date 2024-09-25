@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gama2176&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
 </p>
 
--🔭 Mis últimos proyectos realizados [EuroCentro de Idiomas](https://www.eurocentrodeidiomas.com/)
+-🔭 Mis últimos proyectos realizados [EuroCentro de Idiomas](https://www.eurocentrodeidiomas.com/) [EuroKis] (https://www.eurokidsidiomas.com/)
 
 #### 🔥 Lenguajes:
 <p align="left">
